@@ -14,7 +14,7 @@
 ### 🛠️ Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,c#" />
+  <img src="https://skillicons.dev/icons?i=python,html,csharp" />
 </p>
 
 ---
