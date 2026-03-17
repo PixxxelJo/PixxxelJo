@@ -14,7 +14,7 @@
 ### 🛠️ Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html" />
+  <img src="https://skillicons.dev/icons?i=python,html,java" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
 ### 📚 Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,lua" />
+  <img src="https://skillicons.dev/icons?i=cpp,lua,css" />
 </p>
 
 ---
