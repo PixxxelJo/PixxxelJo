@@ -6,15 +6,15 @@
 ### 👨‍💻 About Me
 
 - 💻 I like coding and building cool stuff  
-- 🌱 Currently learning **C++** and **Lua**  
-- 🚀 Interested in programming and open source  
+- 🌱 Currently learning **C++**, **Lua**, **CSS** and **C**
+- 🚀 Interested in programming
 
 ---
 
 ### 🛠️ Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,csharp" />
+  <img src="https://skillicons.dev/icons?i=python,html" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
 ### 📚 Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,lua,css,java,c" />
+  <img src="https://skillicons.dev/icons?i=cpp,lua,css,c" />
 </p>
 
 ---
@@ -37,9 +37,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixxxelJo&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-### 🌐 Contact
-
-- 💬 Discord: impro14. 
 
